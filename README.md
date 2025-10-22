@@ -1,1 +1,3 @@
 # Git.new
+
+new text
